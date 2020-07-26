@@ -1967,3 +1967,9 @@ h1, h2, h3, h4, h5,
 .portfoliocard {
   box-shadow: 5px 10px 18px #888888
 }
+
+.portfolio-caption-heading {
+  font-weight: bold;
+  font-size: 18px;
+  color: #4f517d;
+}
