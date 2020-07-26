@@ -1,4 +1,4 @@
-$tertiary: #fff6da;
+$tertiary: #dccfec;
 
 .bg-tertiary {
   background: $tertiary;
@@ -14,7 +14,7 @@ $tertiary: #fff6da;
     &:before {
       position: absolute;
       width: 50%;
-      height: 100%;
+      height: 70%;
       content: "";
       right: 0;
       background-color: $tertiary;
